@@ -3,3 +3,7 @@ version: 2
 models:
   - name: stg_orders
     description: test
+  - name: stg_customers
+    description: test
+  - name: dim_customers
+    description: test
