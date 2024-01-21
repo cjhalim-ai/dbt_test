@@ -1,11 +1,3 @@
 version: 2
 
 name: dbt_project
-
-models:
-  - name: stg_orders
-    description: test
-  - name: stg_customers
-    description: test
-  - name: dim_customers
-    description: test
